@@ -1,2 +1,6 @@
 # Xiaomi
 ro.product.mod_device=cupid_global
+
+# SkiaGL rendering
+debug.hwui.renderer=skiagl
+debug.renderengine.backend=skiaglthreaded
