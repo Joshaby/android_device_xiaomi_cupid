@@ -5,3 +5,6 @@ persist.vendor.fingerprint.sensor_location=540|2163|107
 # Sensors
 ro.vendor.sensors.notifier.light_sensors.primary=5
 ro.vendor.sensors.xiaomi.udfps=true
+
+# Power
+vendor.perf.framepacing.enable=1
