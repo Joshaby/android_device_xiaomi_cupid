@@ -8,3 +8,6 @@ ro.vendor.sensors.xiaomi.udfps=true
 
 # Power
 vendor.perf.framepacing.enable=1
+
+# HWUI
+debug.sf.enable_adpf_cpu_hint=true
