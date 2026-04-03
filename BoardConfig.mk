@@ -28,8 +28,3 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/properties/vendor.prop
 
 # Screen density
 TARGET_SCREEN_DENSITY := 440
-
-# ART/VDEX/ODEX
-WITH_DEXPREOPT := true
-DEX_PREOPT_DEFAULT := generate-vdex-and-image
-WITH_DEXPREOPT_DEBUG_INFO := false
